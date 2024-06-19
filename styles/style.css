@@ -42,7 +42,7 @@ input::placeholder {
   font-size: 20px;
 }
 
-button {
+button, .order {
   height: 50px;
   background-color: #2EB9E7;
   border-radius: 10px;
